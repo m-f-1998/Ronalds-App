@@ -5,7 +5,7 @@ $token = $_POST['stripeToken'];
 $amount = $_POST['amount'];
 
 try{
-\Stripe\Stripe::setApiKey("sk_live_YtbeTsvtT6iprMeftcgEy8WN");
+\Stripe\Stripe::setApiKey("<SECRET KEY>");
 
 \Stripe\Charge::create(array(
     "amount" => round($amount * 100), // amount in cents, again
