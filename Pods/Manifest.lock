@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.5.0)
+  - OneSignal (2.5.4)
+  - Stripe (11.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - OneSignal (< 3.0, >= 2.5.2)
+  - Stripe
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  OneSignal: da994bcf6a2efbdceaf71e389e1d05245c562899
+  Stripe: 898f83a95d72180c6eb4acd65b2ae6158fc6a8bd
+
+PODFILE CHECKSUM: ae51badf326602c8cb1007bbf27027e65e4e9901
+
+COCOAPODS: 1.3.1
