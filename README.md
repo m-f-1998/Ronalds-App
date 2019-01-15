@@ -1,4 +1,4 @@
-# Mastermind Game on Raspberry Pi
+# Ronald Yule App
 
 ### Created by Matthew Frankland (March 2017)
 
